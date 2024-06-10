@@ -42,26 +42,28 @@ Berikut adalah Laporan Resmi Praktikum Komunikasi Data & Jaringan Komputer Modul
 <img width="860" alt="VLSM TREE" src="https://github.com/asnan-xrz/Jarkom-Modul-4-IT33-2024/assets/133721836/4692e6a1-0081-4aa1-958b-f981bedb080b">
 
 ### Pembagian IP
-
+<img width="687" alt="PEMBAGIAN IP VLSM" src="https://github.com/asnan-xrz/Jarkom-Modul-4-IT33-2024/assets/133721836/872591ee-d895-4211-8fd3-5c9b3384741f">
 
 ### Konfigurasi
 1. Pertama kita pergi ke setting preference, lalu centang show port label agar mudah mengatur routing.
-
+<img width="748" alt="1-TUTOR" src="https://github.com/asnan-xrz/Jarkom-Modul-4-IT33-2024/assets/133721836/52069977-d570-41b6-9a05-c86cddfb687e">
 
 3. Setelah terlihat port label nya, maka kita atur (Pada Router Kalimantan Selatan)  sesuai routing fast ethernet nya yang keberapa. Misalnya pada FastEthernet 0/1 kita atur Gateway dan Netmask dari A10 yaitu `10.80.21.97` `255.255.255.224`
-
+<img width="521" alt="2-TUTOR" src="https://github.com/asnan-xrz/Jarkom-Modul-4-IT33-2024/assets/133721836/b818c558-d9e2-499d-a519-6a20b197363c">
 
 4. Begitupun untuk port selanjutnya, FaseEthernet 1/0 kita atur Gateway dan Netmask dari A1 yaitu `10.80.0.1` `255.255.248.0`.
-
+<img width="521" alt="3-TUTOR" src="https://github.com/asnan-xrz/Jarkom-Modul-4-IT33-2024/assets/133721836/9a7bc5a4-0e76-4535-ab2d-ca85e209f768">
 
 5. Lalu pada Angsana kita perlu atur IP Address, Netmask, dan Gateway nya. `10.80.21.98` `255.255.255.224` `10.80.21.97`
-
+<img width="521" alt="3,5-TUTOR" src="https://github.com/asnan-xrz/Jarkom-Modul-4-IT33-2024/assets/133721836/fa1da20d-8327-43b4-ae98-cf8979f9b773">
 
 6. Begitupun pada subnet A1, kita konfigurasikan IP pada ketiga PC tersebut dengan mengatur IP address, Netmask, dan Gateway nya sesuai dengan pembagian yang telah dilakukan
-
+<img width="514" alt="4-TUTOR" src="https://github.com/asnan-xrz/Jarkom-Modul-4-IT33-2024/assets/133721836/09e3c1f6-b0a5-41ef-a3ce-4f96873af4fb">
+<img width="514" alt="5-TUTOR" src="https://github.com/asnan-xrz/Jarkom-Modul-4-IT33-2024/assets/133721836/860b8331-08bc-4732-b56a-a98683f975d7">
+<img width="519" alt="6-TUTOR" src="https://github.com/asnan-xrz/Jarkom-Modul-4-IT33-2024/assets/133721836/c76f9fc7-f1fd-49ab-9a0f-ffe7d999ff41">
 
 7. Dan inilah testing ping nya.
-
+<img width="551" alt="7-MAKA AKAN BERHASIL" src="https://github.com/asnan-xrz/Jarkom-Modul-4-IT33-2024/assets/133721836/b2010d36-526e-4f2e-807c-1528272dc8fb">
 
 
 ## CIDR
@@ -76,7 +78,7 @@ Berikut adalah Laporan Resmi Praktikum Komunikasi Data & Jaringan Komputer Modul
 
 
 ### Pembagian IP CIDR
-
+<img width="636" alt="PEMBAGIAN IP CIDR" src="https://github.com/asnan-xrz/Jarkom-Modul-4-IT33-2024/assets/133721836/b0e8599c-f079-4c8c-8cb1-847caf5dc3e0">
 
 ### Network Config
 - JAWA
