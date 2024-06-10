@@ -62,8 +62,11 @@ Berikut adalah Laporan Resmi Praktikum Komunikasi Data & Jaringan Komputer Modul
 <img width="514" alt="5-TUTOR" src="https://github.com/asnan-xrz/Jarkom-Modul-4-IT33-2024/assets/133721836/860b8331-08bc-4732-b56a-a98683f975d7">
 <img width="519" alt="6-TUTOR" src="https://github.com/asnan-xrz/Jarkom-Modul-4-IT33-2024/assets/133721836/c76f9fc7-f1fd-49ab-9a0f-ffe7d999ff41">
 
-7. Dan inilah testing ping nya.
+7. Kita ikuti langkah-langkah itu untuk mengatur konfigurasi pada semua router dan pc.
+
+8. Dan inilah testing ping nya.
 <img width="551" alt="7-MAKA AKAN BERHASIL" src="https://github.com/asnan-xrz/Jarkom-Modul-4-IT33-2024/assets/133721836/b2010d36-526e-4f2e-807c-1528272dc8fb">
+
 
 
 ## CIDR
